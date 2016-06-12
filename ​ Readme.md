@@ -1,0 +1,2 @@
+綜合Lab11與SocketSample，將SocketSample傳輸的字串改為Lab11的結果。
+另外讓server extend JFrame使其變成視窗程式，較容易閱讀。
